@@ -83,7 +83,7 @@ public class studentmanagement {
         }
     }
 }
-
+//ditconme code ngu vl chx tay dau
 class Student {
 
     public String name;  
@@ -98,4 +98,5 @@ class Student {
         return "Name: " + name + ", Age: " + age;
     }  
 }
+
 
