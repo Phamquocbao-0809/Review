@@ -21,7 +21,7 @@ public class studentmanagement {
             System.out.println("4. Exit");
 
             choice = scanner.nextInt();
-
+//sửa lỗi ngu
             if(choice == 1) {
                 addStudent();
             }
@@ -98,4 +98,5 @@ class Student {
         return "Name: " + name + ", Age: " + age;
     }  
 }
+
 
