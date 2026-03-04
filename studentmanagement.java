@@ -40,7 +40,7 @@ public class studentmanagement {
         }
     }
 
-    public static void addStudent() {
+    public static void addstudent() {
 
         System.out.println("Enter name: ");
         String name = scanner.next();  
@@ -98,3 +98,4 @@ class Student {
         return "Name: " + name + ", Age: " + age;
     }  
 }
+
